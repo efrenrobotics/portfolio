@@ -4,6 +4,6 @@
 
 Focusing on design and aesthetic.
 
-Tech Stack : React, Vite TS
+**Tech Stack** : React, TailwindCSS, Vite TS
 
 Learning TypeScript and planning to deploy with AWS.
